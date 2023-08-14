@@ -1,10 +1,18 @@
 
+/* monday notes. Put me somewhere else, like notes/monday-14-aug.md.
+
+mystery. npm test stopped working 🤔 had to re-install /npm instal... /
+
+*/
+
 /* 
+
     Welcome. 
         Radha- (Raa-The). Tampa. Earlier attend. Fizzbuzz achieved. mostly sql. asp long ago. 
             badges: hello world initial test list ✅ 
                     github ✅  
                     liveshare ⏳
+                    github.dev   commiter ✅
 
         Alan.  Boulder.
         Dinesh. Tampa. Mac. liveshare ✅ no git credentials; vs code on web. ~infosys vm: direct 
