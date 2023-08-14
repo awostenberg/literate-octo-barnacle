@@ -26,11 +26,11 @@
 describe("tdd sprint report", () => {
     it.todo("I. reports fraction of players who participated, e.g. 5 of 7")
     it.todo("IIa. reports total manhours of practice, e.g. people * hours")
-    it.todo("IIb. reserved hours, e.g. people * 5 hours")
+    it.todo("IIb. reports reserved hours, e.g. people * 5 hours")
     it.todo("III. reports badges earned, e.g. all participatants earned /initial test/")
     it.todo("IV. thanks participants by name, e.g. thank you Payal, Sai, Radha, Swetha and Kitty")
-    it.todo("V. enrollment open <url>")
-    it.todo("VI. do it yourself kit <url>")
+    it.todo("V. reminds that enrollment is open <url>")
+    it.todo("VI. reminds location of the do it yourself (DIY) kit <url>")
 
 
 
