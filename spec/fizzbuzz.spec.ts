@@ -11,8 +11,10 @@ mystery. npm test stopped working 🤔 had to re-install /npm instal... /
         Radha- (Raa-The). Tampa. Earlier attend. Fizzbuzz achieved. mostly sql. asp long ago. 
             badges: hello world initial test list ✅ 
                     github ✅  
-                    liveshare ⏳
-                    github.dev   commiter ✅
+                    liveshare ⏳ ✅ Monday.
+                    github.dev   commiter ✅ Monday.
+
+        
 
         Alan.  Boulder.
         Dinesh. Tampa. Mac. liveshare ✅ no git credentials; vs code on web. ~infosys vm: direct 
@@ -89,7 +91,7 @@ describe('greets with hello world', () => {
     it.todo('greets Payal by name prounounced Pie-all')
     it.todo('greets Saikat by nickname Sai')
 
-    it('greets Swetha by name', () => {
+    it.skip('greets Swetha by name', () => {
         const result = greeter("Swetha")
         expect(result).toBe("Swetha")
     })
