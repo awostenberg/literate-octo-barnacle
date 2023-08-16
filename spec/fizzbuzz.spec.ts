@@ -1,7 +1,8 @@
 
 /* monday notes. Put me somewhere else, like notes/monday-14-aug.md.
 
-mystery. npm test stopped working 🤔 had to re-install /npm instal... /
+mystery. q. why did npm test stopped working 🤔 had to re-install /npm instal... /?
+         a. that's because fresh clone and no nodes_module dir. The /nmp install/ is working as designed.
 
 */
 
